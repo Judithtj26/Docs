@@ -1,0 +1,3 @@
+git remote add origin https://github.com/tu_usuario/Docs.git
+git remote -v
+
